@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/teddy/change-projects/change-backend/app'
+let g:netrw_dirhist_2='/home/teddy/change-projects/change-backend/app/controllers'
+let g:netrw_dirhist_3='/home/teddy/.vim/autoload'
+let g:netrw_dirhist_4='/home/teddy/.vim'
+let g:netrw_dirhist_5='/home/teddy/.config'
+let g:netrw_dirhist_6='/home/teddy/change-projects/change-backend'
+let g:netrw_dirhist_7='/home/teddy/machine-learning/TensorFlow-Examples'
+let g:netrw_dirhist_8='/home/teddy/change-projects/change-backend/app/controllers'
+let g:netrw_dirhist_9='/home/teddy/.vimpkg/bundle'
