@@ -52,14 +52,16 @@ set cursorline cursorcolumn
 set nocompatible               " be iMproved
 filetype off                   " required!
 "
-set rtp+=~/.vim/bundle/vundle/
+set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#rc()
+
 "
 " let Vundle manage Vundle
 " required! 
 "
-Bundle 'gmarik/vundle'
 "
+Plugin 'VundleVim/Vundle.vim'
+
 " My Bundles here:
 "
 filetype plugin indent on     " required!
